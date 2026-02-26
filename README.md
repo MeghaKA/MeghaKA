@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Megha 👋
 
-<!--
-**MeghaKA/MeghaKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | SQL • Python • BigQuery  
+☁️ AWS Certified | Cloud Analytics Enthusiast  
 
-Here are some ideas to get you started:
+I specialize in transforming raw data into actionable insights using:
+- Python (Pandas, NumPy)
+- SQL & Google BigQuery
+- Tableau & Dashboard Reporting
+- Exploratory Data Analysis (EDA)
+- Predictive Modeling (Decision Tree, SVM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+NYC Collision Risk Intelligence – Predictive Analytics & Business Dashboard Project
+
+📜 Certifications:
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate
+- IBM Machine Learning with Python (In Progress)
+
+📫 Open to Data Analyst & Cloud Analytics opportunities.
