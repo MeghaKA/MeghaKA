@@ -16,6 +16,6 @@ NYC Collision Risk Intelligence – Predictive Analytics & Business Dashboard Pr
 📜 Certifications:
 - AWS Certified Cloud Practitioner
 - Google Data Analytics Professional Certificate
-- IBM Machine Learning with Python (In Progress)
+- IBM Machine Learning with Python 
 
 📫 Open to Data Analyst & Cloud Analytics opportunities.
