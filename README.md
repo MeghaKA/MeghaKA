@@ -1,21 +1,65 @@
 # Hi, I'm Megha 👋
 
-🎯 Data Analyst | SQL • Python • BigQuery  
-☁️ AWS Certified | Cloud Analytics Enthusiast  
+🎯 **Aspiring Data Analyst**  
+☁️ **AWS Certified | Data & Cloud Analytics Enthusiast**
 
-I specialize in transforming raw data into actionable insights using:
+I enjoy transforming raw data into meaningful insights through **data analysis, visualization, and machine learning techniques**.
+
+---
+
+## 🔧 Technical Skills
+
+**Programming & Analysis**
 - Python (Pandas, NumPy)
-- SQL & Google BigQuery
-- Tableau & Dashboard Reporting
+- SQL
+- Google BigQuery
+
+**Data Visualization**
+- Tableau
+- Dashboard Reporting
+
+**Analytics**
 - Exploratory Data Analysis (EDA)
-- Predictive Modeling (Decision Tree, SVM)
+- Data Cleaning
+- Feature Engineering
 
-🔭 Currently working on:
-NYC Collision Risk Intelligence – Predictive Analytics & Business Dashboard Project
+**Machine Learning**
+- Decision Trees
+- Support Vector Machines (SVM)
 
-📜 Certifications:
-- AWS Certified Cloud Practitioner
-- Google Data Analytics Professional Certificate
-- IBM Machine Learning with Python 
+---
 
-📫 Open to Data Analyst & Cloud Analytics opportunities.
+## 📊 Featured Projects
+
+**🚦 NYC Collision Risk Intelligence**  
+Data analytics dashboard identifying high-risk crash patterns in New York City using Python and Tableau.
+
+**🩺 Diabetes Patient Prediction**  
+Machine learning model predicting diabetes risk based on patient health indicators.
+
+**📉 TELCO Customer Churn Analysis**  
+Customer analytics project identifying key factors influencing telecom customer retention.
+
+**📈 Amazon Cloud Sales Analytics**  
+Sales analytics project uncovering revenue trends and customer insights from cloud sales data.
+
+---
+
+## 📜 Certifications
+
+✔ AWS Certified Cloud Practitioner  
+✔ Google Data Analytics Professional Certificate  
+✔ IBM Machine Learning with Python  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Analytics Techniques  
+- Building Real-World Data Analytics Projects  
+
+---
+
+## 📫 Let's Connect
+
+💼 Open to **Data Analyst / Cloud Analytics opportunities**
