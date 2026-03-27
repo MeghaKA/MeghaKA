@@ -1,65 +1,84 @@
 # Hi, I'm Megha 👋
 
-🎯 **Aspiring Data Analyst**  
-☁️ **AWS Certified | Data & Cloud Analytics Enthusiast**
-
-I enjoy transforming raw data into meaningful insights through **data analysis, visualization, and machine learning techniques**.
+🎯 Aspiring Data Analyst | MSc Data Analytics  
+📊 Passionate about turning data into actionable insights  
 
 ---
 
-## 🔧 Technical Skills
+## 💡 About Me
 
-**Programming & Analysis**
+- Data Analyst with hands-on experience in **SQL, Python, and Data Visualization**
+- AWS Certified Cloud Practitioner
+- Skilled in **Tableau, Looker Studio, BigQuery, and Excel**
+- Currently building **real-world business-focused analytics projects**
+- Strong interest in **campaign analytics, customer insights, and decision-making**
+
+---
+
+## 🛠️ Skills
+
+**Languages & Tools:**
 - Python (Pandas, NumPy)
 - SQL
 - Google BigQuery
+- Tableau | Looker Studio | Power BI (Learning)
+- Microsoft Excel (Pivot Tables, KPI dashboards)
 
-**Data Visualization**
-- Tableau
-- Dashboard Reporting
-
-**Analytics**
+**Core Concepts:**
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Feature Engineering
-
-**Machine Learning**
-- Decision Trees
-- Support Vector Machines (SVM)
+- Data Visualization
+- Dashboard Development
+- Predictive Analytics (ML basics)
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projects
 
-**🚦 NYC Collision Risk Intelligence**  
-Data analytics dashboard identifying high-risk crash patterns in New York City using Python and Tableau.
+### 🚗 NYC Collision Risk Intelligence
+- Analyzed crash data to identify high-risk patterns
+- Built severity scoring using Python (Pandas)
+- Developed dashboard in Tableau to highlight trends
 
-**🩺 Diabetes Patient Prediction**  
-Machine learning model predicting diabetes risk based on patient health indicators.
+---
 
-**📉 TELCO Customer Churn Analysis**  
-Customer analytics project identifying key factors influencing telecom customer retention.
+### 📦 Amazon Sales Intelligence (Cloud Analytics)
+- Performed SQL analysis using Google BigQuery
+- Identified revenue trends and category performance
+- Built KPI dashboard in Looker Studio
 
-**📈 Amazon Cloud Sales Analytics**  
-Sales analytics project uncovering revenue trends and customer insights from cloud sales data.
+---
+
+### 🚀 Global Startup Funding Analysis *(Ongoing)*
+- Analyzing startup funding trends across countries and industries
+- Performing data cleaning and transformation using Python
+- Building interactive dashboard (Looker Studio / Tableau)
+- Extracting insights on investment patterns and growth trends
 
 ---
 
 ## 📜 Certifications
 
-✔ AWS Certified Cloud Practitioner  
-✔ Google Data Analytics Professional Certificate  
-✔ IBM Machine Learning with Python  
+- Google Data Analytics Professional Certificate
+- AWS Certified Cloud Practitioner
+- IBM Machine Learning with Python
+- Microsoft Power BI Data Analyst *(In Progress)*
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Data Analytics Techniques  
-- Building Real-World Data Analytics Projects  
+- Advanced SQL for analytics
+- Power BI dashboards
+- Business-focused data storytelling
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-💼 Open to **Data Analyst / Cloud Analytics opportunities**
+- LinkedIn: https://linkedin.com/in/meghaka1998
+- GitHub: https://github.com/MeghaKA
+
+---
+
+⭐ Always open to opportunities in Data Analytics / Business Analytics roles
