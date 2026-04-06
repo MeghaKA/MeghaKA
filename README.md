@@ -1,84 +1,86 @@
-# Hi, I'm Megha 👋
+# 👋 Hi, I'm Megha
 
-🎯 Aspiring Data Analyst | MSc Data Analytics  
-📊 Passionate about turning data into actionable insights  
+🎯 Aspiring Data Analyst & Data Scientist  
+📊 Passionate about Data Analysis, Machine Learning & Data Visualization  
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-- Data Analyst with hands-on experience in **SQL, Python, and Data Visualization**
-- AWS Certified Cloud Practitioner
-- Skilled in **Tableau, Looker Studio, BigQuery, and Excel**
-- Currently building **real-world business-focused analytics projects**
-- Strong interest in **campaign analytics, customer insights, and decision-making**
+- 💡 Strong interest in Data Science and real-world data problems  
+- 📊 Skilled in Python, Data Analysis, and Dashboard Creation  
+- 📈 Experience in building interactive dashboards using Looker Studio  
+- 🤖 Exploring Machine Learning concepts and predictive models  
+- 🎯 Currently preparing for Data Analyst / Data Scientist roles  
 
 ---
 
 ## 🛠️ Skills
 
-**Languages & Tools:**
-- Python (Pandas, NumPy)
-- SQL
-- Google BigQuery
-- Tableau | Looker Studio | Power BI (Learning)
-- Microsoft Excel (Pivot Tables, KPI dashboards)
-
-**Core Concepts:**
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- Predictive Analytics (ML basics)
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn, Looker Studio  
+- **Tools:** Jupyter Notebook, GitHub  
+- **Concepts:** Data Cleaning, EDA, Basic Machine Learning  
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
-### 🚗 NYC Collision Risk Intelligence
-- Analyzed crash data to identify high-risk patterns
-- Built severity scoring using Python (Pandas)
-- Developed dashboard in Tableau to highlight trends
+### 🌍 Global Startup Funding Analysis
+- Performed data cleaning and exploratory data analysis (EDA) using Python  
+- Analyzed funding trends, top cities, countries, and industries  
+- Built an interactive dashboard using Looker Studio  
 
----
+📌 **Key Insights:**
+- Startup funding increased significantly after 2010  
+- USA dominates global startup investments  
+- Technology sectors receive the highest funding  
+- Investments are concentrated in major startup hubs  
 
-### 📦 Amazon Sales Intelligence (Cloud Analytics)
-- Performed SQL analysis using Google BigQuery
-- Identified revenue trends and category performance
-- Built KPI dashboard in Looker Studio
-
----
-
-### 🚀 Global Startup Funding Analysis *(Ongoing)*
-- Analyzing startup funding trends across countries and industries
-- Performing data cleaning and transformation using Python
-- Building interactive dashboard (Looker Studio / Tableau)
-- Extracting insights on investment patterns and growth trends
+🔗 **Project Link:**  
+👉 [https://github.com/MeghaKA  *(replace with exact repo link)* ](https://github.com/MeghaKA/Global_Startup_Funding_analysis) 
 
 ---
 
-## 📜 Certifications
+### 🧠 Diabetes Prediction System
+- Built a machine learning model to predict diabetes  
+- Used classification techniques on healthcare dataset  
+- Performed data preprocessing and model evaluation  
 
-- Google Data Analytics Professional Certificate
-- AWS Certified Cloud Practitioner
-- IBM Machine Learning with Python
-- Microsoft Power BI Data Analyst *(In Progress)*
+📌 **Highlights:**
+- Applied data cleaning and feature selection  
+- Used ML algorithms for prediction  
+- Evaluated model performance  
 
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL for analytics
-- Power BI dashboards
-- Business-focused data storytelling
+🔗 **Project Link:**  
+👉[ https://github.com/MeghaKA  *(replace with exact repo link)* ](https://github.com/MeghaKA/DiabeticPatientAnalysis) 
 
 ---
 
-## 📫 Connect With Me
+## 📈 What I'm Learning
 
-- LinkedIn: https://linkedin.com/in/meghaka1998
-- GitHub: https://github.com/MeghaKA
+- Machine Learning (Supervised & Unsupervised Learning)  
+- Data Structures & Algorithms  
+- SQL for Data Analysis  
+- Advanced Python  
 
 ---
 
-⭐ Always open to opportunities in Data Analytics / Business Analytics roles
+## 🎯 Career Goal
+
+To become a skilled **Data Analyst / Data Scientist** and work on real-world data-driven problems by building impactful solutions.
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/meghaka1998 
+- 📧 Email: meghaka1998@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming raw data into meaningful insights and visual stories 📊✨
+⭐ Always open to opportunities in Data Analytics / Data Scientist roles
