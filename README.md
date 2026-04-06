@@ -54,7 +54,7 @@
 - Evaluated model performance  
 
 🔗 **Project Link:**  
-👉[ https://github.com/MeghaKA  *(replace with exact repo link)* ](https://github.com/MeghaKA/DiabeticPatientAnalysis) 
+👉https://github.com/MeghaKA/DiabeticPatientAnalysis
 
 ---
 
