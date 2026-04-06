@@ -39,7 +39,7 @@
 - Investments are concentrated in major startup hubs  
 
 🔗 **Project Link:**  
-👉 [https://github.com/MeghaKA  *(replace with exact repo link)* ](https://github.com/MeghaKA/Global_Startup_Funding_analysis) 
+👉 https://github.com/MeghaKA/Global_Startup_Funding_analysis) 
 
 ---
 
