@@ -9,8 +9,9 @@
 
 - 💡 Strong interest in Data Science and real-world data problems  
 - 📊 Skilled in Python, Data Analysis, and Dashboard Creation  
-- 📈 Experience in building interactive dashboards using Looker Studio  
-- 🤖 Exploring Machine Learning concepts and predictive models  
+- 📈 Experience in building interactive dashboards using Looker Studio
+- 🤖 Exploring explainable AI techniques for predictive models
+- 🤖 Interested in applying Machine Learning to healthcare problems  
 - 🎯 Currently preparing for Data Analyst / Data Scientist roles  
 
 ---
