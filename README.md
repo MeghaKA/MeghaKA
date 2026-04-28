@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Megha
 
-🎯 Aspiring Data Analyst & Data Scientist  
-📊 Passionate about Data Analysis, Machine Learning & Data Visualization  
+🎯 Data Analyst Graduate & Data Scientist  
+📊 Passionate about Data Analysis, Machine Learning for Healthcare & Explainable AI 
 
 ---
 
@@ -10,7 +10,7 @@
 - 💡 Strong interest in Data Science and real-world data problems  
 - 📊 Skilled in Python, Data Analysis, and Dashboard Creation  
 - 📈 Experience in building interactive dashboards using Looker Studio
-- 🤖 Exploring explainable AI techniques for predictive models
+- 🔍 Exploring explainable AI techniques for predictive models
 - 🤖 Interested in applying Machine Learning to healthcare problems  
 - 🎯 Currently preparing for Data Analyst / Data Scientist roles  
 
@@ -29,9 +29,9 @@
 ## 📊 Featured Projects
 
 ### 🌍 Global Startup Funding Analysis
-- Performed data cleaning and exploratory data analysis (EDA) using Python  
-- Analyzed funding trends, top cities, countries, and industries  
-- Built an interactive dashboard using Looker Studio  
+* Performed data cleaning and exploratory data analysis (EDA) using Python  
+* Analyzed funding trends, top cities, countries, and industries  
+* Built an interactive dashboard using Looker Studio  
 
 📌 **Key Insights:**
 - Startup funding increased significantly after 2010  
@@ -45,10 +45,11 @@
 ---
 
 ### 🧠 Diabetes Prediction System
-- Built a machine learning model to predict diabetes  
-- Used classification techniques on healthcare dataset  
-- Performed data preprocessing and model evaluation  
-
+* Developed a machine learning model for diabetes prediction using classification algorithms
+* Performed feature analysis to understand key health indicators
+* Evaluated model performance using accuracy, precision, and recall
+* Exploring model interpretability using explainability techniques
+  
 📌 **Highlights:**
 - Applied data cleaning and feature selection  
 - Used ML algorithms for prediction  
@@ -67,7 +68,14 @@
 - Advanced Python  
 
 ---
+## 🔬 Research Interests
 
+🧠 Machine Learning in Healthcare  
+📊 Predictive Modeling for Clinical Data  
+🔍 Explainable AI (XAI) and Model Interpretability  
+🏥 Early Disease Detection using Data-Driven Approaches  
+⚕️ Clinical Decision Support Systems
+  
 ## 🎯 Career Goal
 
 To become a skilled **Data Analyst / Data Scientist** and work on real-world data-driven problems by building impactful solutions.
