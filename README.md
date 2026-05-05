@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Megha
 
-🎯 Data Analyst Graduate & Data Scientist  
-📊 Passionate about Data Analysis, Machine Learning for Healthcare & Explainable AI 
+🎯 Data Analyst | Aspiring Data Scientist  
+🧠 Interested in Machine Learning, Healthcare Analytics & Explainable AI  
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Strong interest in Data Science and real-world data problems  
-- 📊 Skilled in Python, Data Analysis, and Dashboard Creation  
-- 📈 Experience in building interactive dashboards using Looker Studio
-- 🔍 Exploring explainable AI techniques for predictive models
-- 🤖 Interested in applying Machine Learning to healthcare problems  
-- 🎯 Currently preparing for Data Analyst / Data Scientist roles  
+- 💡 Passionate about solving real-world problems using data  
+- 📊 Strong foundation in Python, data analysis, and machine learning  
+- 📈 Experience in building dashboards and extracting insights  
+- 🔍 Exploring Explainable AI (XAI) for model transparency  
+- 🤖 Interested in applying ML in healthcare and risk analysis  
+- 🎯 Actively seeking Data Analyst / Data Scientist roles  
 
 ---
 
@@ -21,75 +21,71 @@
 - **Programming:** Python  
 - **Data Analysis:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn, Looker Studio  
+- **Machine Learning:** Scikit-learn  
 - **Tools:** Jupyter Notebook, GitHub  
-- **Concepts:** Data Cleaning, EDA, Basic Machine Learning  
+- **Concepts:** Data Cleaning, EDA, Model Evaluation, Explainability  
 
 ---
 
 ## 📊 Featured Projects
 
-### 🌍 Global Startup Funding Analysis
-* Performed data cleaning and exploratory data analysis (EDA) using Python  
-* Analyzed funding trends, top cities, countries, and industries  
-* Built an interactive dashboard using Looker Studio  
+### 🧠 Explainable AI for Diabetes & CKD Prediction
+- Built ML models for disease prediction  
+- Applied SHAP (Explainable AI) for interpretability  
+- Focused on understanding feature impact on predictions  
 
-📌 **Key Insights:**
-- Startup funding increased significantly after 2010  
-- USA dominates global startup investments  
-- Technology sectors receive the highest funding  
-- Investments are concentrated in major startup hubs  
-
-🔗 **Project Link:**  
-👉 https://github.com/MeghaKA/Global_Startup_Funding_analysis) 
+🔗 https://github.com/MeghaKA/Explainable-AI-Diabetes-CKD  
 
 ---
 
 ### 🧠 Diabetes Prediction System
-* Developed a machine learning model for diabetes prediction using classification algorithms
-* Performed feature analysis to understand key health indicators
-* Evaluated model performance using accuracy, precision, and recall
-* Exploring model interpretability using explainability techniques
-  
-📌 **Highlights:**
-- Applied data cleaning and feature selection  
-- Used ML algorithms for prediction  
-- Evaluated model performance  
+- Developed ML models for diabetes prediction  
+- Performed feature analysis and model evaluation  
+- Explored early-stage model interpretability  
 
-🔗 **Project Link:**  
-👉https://github.com/MeghaKA/DiabeticPatientAnalysis
+🔗 https://github.com/MeghaKA/DiabeticPatientAnalysis  
 
 ---
 
-## 📈 What I'm Learning
+### 🚗 NYC Collision Risk Intelligence
+- Analyzed real-world traffic collision data  
+- Identified high-risk patterns and contributing factors  
+- Focused on risk analysis and actionable insights  
 
-- Machine Learning (Supervised & Unsupervised Learning)  
-- Data Structures & Algorithms  
-- SQL for Data Analysis  
-- Advanced Python  
+🔗 https://github.com/MeghaKA/NYC_Collision_Risk_Intelligence  
 
 ---
+
 ## 🔬 Research Interests
 
-🧠 Machine Learning in Healthcare  
-📊 Predictive Modeling for Clinical Data  
-🔍 Explainable AI (XAI) and Model Interpretability  
-🏥 Early Disease Detection using Data-Driven Approaches  
-⚕️ Clinical Decision Support Systems
-  
+- 🧠 Machine Learning in Healthcare  
+- 🔍 Explainable AI (XAI)  
+- 📊 Predictive Modeling for Real-world Data  
+- ⚕️ Data-driven Decision Support Systems  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Machine Learning  
+- SQL for Data Analysis  
+- Data Structures & Algorithms  
+
+---
+
 ## 🎯 Career Goal
 
-To become a skilled **Data Analyst / Data Scientist** and work on real-world data-driven problems by building impactful solutions.
+To build a career as a Data Analyst / Data Scientist by solving real-world problems using data, while exploring research opportunities in Explainable AI.
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/meghaka1998 
-- 📧 Email: meghaka1998@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/meghaka1998  
+- 📧 Email: meghaka1998@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy transforming raw data into meaningful insights and visual stories 📊✨
-⭐ Always open to opportunities in Data Analytics / Data Scientist roles
+I enjoy transforming raw data into meaningful insights and impactful visual stories 📊✨
