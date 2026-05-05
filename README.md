@@ -22,7 +22,7 @@
 - **Data Analysis:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn, Looker Studio  
 - **Machine Learning:** Scikit-learn  
-- **Tools:** Jupyter Notebook, GitHub  
+- **Tools:** Jupyter Notebook, GitHub,Google colab  
 - **Concepts:** Data Cleaning, EDA, Model Evaluation, Explainability  
 
 ---
