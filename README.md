@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Megha
 
 🎯 Data Analyst | Aspiring Data Scientist  
-🧠 Interested in Machine Learning, Healthcare Analytics & Explainable AI  
+🧠 Focused on Machine Learning, Healthcare Analytics & Explainable AI  
 
 ---
 
@@ -9,48 +9,55 @@
 
 - 💡 Passionate about solving real-world problems using data  
 - 📊 Strong foundation in Python, data analysis, and machine learning  
-- 📈 Experience in building dashboards and extracting insights  
-- 🔍 Exploring Explainable AI (XAI) for model transparency  
-- 🤖 Interested in applying ML in healthcare and risk analysis  
-- 🎯 Actively seeking Data Analyst / Data Scientist roles  
+- 🧠 Currently working on Explainable AI (XAI) for healthcare prediction models  
+- 📈 Experience in building ML models, evaluating performance, and interpreting results  
+- 🔍 Interested in bridging the gap between model accuracy and interpretability  
+- 🎯 Actively seeking Data Analyst / Data Scientist roles while preparing for PhD  
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming:** Python  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn, Looker Studio  
-- **Machine Learning:** Scikit-learn  
-- **Tools:** Jupyter Notebook, GitHub,Google colab  
-- **Concepts:** Data Cleaning, EDA, Model Evaluation, Explainability  
+- Programming: Python  
+- Data Analysis: Pandas, NumPy  
+- Visualization: Matplotlib, Seaborn, Looker Studio  
+- Machine Learning: Scikit-learn (Classification Models, Evaluation)  
+- Explainability: SHAP (Model Interpretability)  
+- Tools: Jupyter Notebook, Google Colab, GitHub  
+- Concepts: Data Cleaning, EDA, Feature Engineering, Model Evaluation  
 
 ---
 
 ## 📊 Featured Projects
 
 ### 🧠 Explainable AI for Diabetes & CKD Prediction
-- Built ML models for disease prediction  
-- Applied SHAP (Explainable AI) for interpretability  
-- Focused on understanding feature impact on predictions  
+- Built machine learning models for disease prediction  
+- Applied SHAP (Explainable AI) to interpret model decisions  
+- Identified key clinical features influencing predictions  
+- Focused on improving transparency in healthcare AI systems
 
 🔗 https://github.com/MeghaKA/Explainable-AI-Diabetes-CKD  
 
 ---
 
-### 🧠 Diabetes Prediction System
-- Developed ML models for diabetes prediction  
-- Performed feature analysis and model evaluation  
-- Explored early-stage model interpretability  
+### 🩺 Diabetes Prediction System
+- Developed classification models (Decision Tree, SVM, Logistic Regression)  
+- Performed data preprocessing, feature analysis, and evaluation  
+- Achieved meaningful insights into key risk factors like:
+  - General Health (GenHlth)
+  - BMI
+  - High Blood Pressure  
+- Applied SHAP to understand feature impact on predictions  
 
 🔗 https://github.com/MeghaKA/DiabeticPatientAnalysis  
 
 ---
 
 ### 🚗 NYC Collision Risk Intelligence
-- Analyzed real-world traffic collision data  
-- Identified high-risk patterns and contributing factors  
-- Focused on risk analysis and actionable insights  
+- Analyzed real-world traffic collision data from NYC  
+- Identified high-risk locations, time patterns, and severity trends  
+- Built data pipeline using Python and created dashboard insights  
+- Demonstrated ability to translate raw data into actionable insights
 
 🔗 https://github.com/MeghaKA/NYC_Collision_Risk_Intelligence  
 
@@ -60,7 +67,7 @@
 
 - 🧠 Machine Learning in Healthcare  
 - 🔍 Explainable AI (XAI)  
-- 📊 Predictive Modeling for Real-world Data  
+- 📊 Predictive Modeling for Clinical Data  
 - ⚕️ Data-driven Decision Support Systems  
 
 ---
@@ -70,12 +77,13 @@
 - Advanced Machine Learning  
 - SQL for Data Analysis  
 - Data Structures & Algorithms  
+- XAI evaluation methods for healthcare  
 
 ---
 
 ## 🎯 Career Goal
 
-To build a career as a Data Analyst / Data Scientist by solving real-world problems using data, while exploring research opportunities in Explainable AI.
+To build a career as a Data Analyst / Data Scientist, solving real-world problems using data, while also exploring research opportunities in Explainable AI for healthcare.
 
 ---
 
@@ -88,4 +96,4 @@ To build a career as a Data Analyst / Data Scientist by solving real-world probl
 
 ## ⚡ Fun Fact
 
-I enjoy transforming raw data into meaningful insights and impactful visual stories 📊✨
+I enjoy turning complex datasets into meaningful insights and interpretable models 📊
