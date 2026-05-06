@@ -12,7 +12,7 @@
 - 🧠 Currently working on Explainable AI (XAI) for healthcare prediction models  
 - 📈 Experience in building ML models, evaluating performance, and interpreting results  
 - 🔍 Interested in bridging the gap between model accuracy and interpretability  
-- 🎯 Actively seeking Data Analyst / Data Scientist roles while preparing for PhD  
+- 🎯 Actively seeking Data Analyst / Data Scientist roles 
 
 ---
 
