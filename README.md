@@ -91,7 +91,7 @@ To build a career as a Data Analyst / Data Scientist, solving real-world problem
 
 - 💼 LinkedIn: https://linkedin.com/in/meghaka1998  
 - 📧 Email: meghaka1998@gmail.com  
-
+- ✍️ Medium: https://medium.com/@meghaka1998
 ---
 
 ## ⚡ Fun Fact
