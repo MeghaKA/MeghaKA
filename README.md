@@ -61,7 +61,7 @@
 - Performed feature importance analysis and model evaluation using ROC curves and confusion matrices  
 - Focused on transparency and interpretability in healthcare AI systems  
 
-🔗 https://github.com/MeghaKA/explainable-clinical-risk-prediction
+🔗 https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 ---
 
