@@ -65,8 +65,8 @@
 
 ---
 
-### 🧠 Explainable Healthcare AI for Diabetes & CKD Prediction
-- Built machine learning models for Diabetes and Chronic Kidney Disease prediction  
+### 🧠 Explainable Healthcare AI for CKD Prediction
+- Built machine learning models for Chronic Kidney Disease prediction  
 - Applied SHAP explainability techniques to interpret model decisions  
 - Identified clinically important features influencing disease prediction  
 - Focused on improving transparency and trustworthiness in healthcare AI systems  
