@@ -1,18 +1,21 @@
 # 👋 Hi, I'm Megha
 
-🎯 Data Analyst | Aspiring Data Scientist  
+🎯 Data Analytics Graduate | Healthcare AI & Explainable AI Enthusiast
+
 🧠 Focused on Machine Learning, Healthcare Analytics & Explainable AI (XAI)
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Passionate about solving real-world problems using data-driven approaches  
-- 📊 Strong foundation in Python, data analysis, machine learning, and healthcare analytics  
-- 🧠 Currently working on interpretable and explainable AI models for healthcare prediction systems  
-- 📈 Experience in building machine learning pipelines, evaluating predictive performance, and interpreting model behavior  
-- 🔍 Interested in trustworthy AI, clinical decision-support systems, and interpretable machine learning  
-- 🎯 Actively seeking opportunities in Data Analytics, Data Science, and Healthcare AI research
+🎓 M.Sc. Data Analytics  
+
+- 💡 Passionate about solving real-world problems using data-driven approaches
+- 📊 Strong foundation in Python, Data Analytics, Machine Learning, and Healthcare Analytics
+- 🧠 Experienced in developing interpretable healthcare prediction models using Explainable AI (XAI)
+- 📈 Skilled in data preprocessing, predictive modelling, model evaluation, and healthcare data analysis
+- 🔍 Interested in trustworthy AI, clinical decision-support systems, and healthcare machine learning
+- 🎯 Currently pursuing opportunities in Data Analytics, Machine Learning, Healthcare AI, and Research
 
 ---
 
@@ -54,60 +57,94 @@
 
 ## 📊 Featured Projects
 
-### 🫀 Explainable Clinical Risk Prediction for Heart Disease
-- Developed interpretable machine learning models for cardiovascular risk prediction  
-- Compared Logistic Regression and Random Forest models  
-- Applied SHAP explainability for both global and local patient-level interpretation  
-- Performed feature importance analysis and model evaluation using ROC curves and confusion matrices  
-- Focused on transparency and interpretability in healthcare AI systems  
+### 🏥 Multi-Disease Prediction using Explainable AI (SHAP & LIME)
 
-🔗 https://github.com/MeghaKA/explainable_clinical_risk_prediction
+- Developed a multi-disease prediction framework for Diabetes and Chronic Kidney Disease
+- Implemented Random Forest, Decision Tree, and XGBoost models
+- Applied SHAP and LIME explainability techniques for model transparency
+- Identified important healthcare features influencing disease prediction outcomes
+
+📊 Key Results
+
+- Diabetes Accuracy: 77.8%
+- CKD Accuracy: 100%
+- XGBoost Accuracy: 98.75%
+
+🔗 Repository:
+https://github.com/MeghaKA/Explainable-MultiDisease-Prediction-using-SHAP-and-LIME
 
 ---
 
 ### 🧠 Explainable Healthcare AI for CKD Prediction
-- Built machine learning models for Chronic Kidney Disease prediction  
-- Applied SHAP explainability techniques to interpret model decisions  
-- Identified clinically important features influencing disease prediction  
-- Focused on improving transparency and trustworthiness in healthcare AI systems  
 
-🔗 https://github.com/MeghaKA/Explainable-AI-Diabetes-CKD
+- Developed an interpretable CKD prediction framework using Decision Trees and SHAP
+- Performed healthcare data preprocessing and feature engineering
+- Identified clinically significant biomarkers influencing CKD prediction
+- Improved model transparency and interpretability through Explainable AI techniques
+
+🔗 Repository:https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
+
+---
+
+### 🫀 Explainable Clinical Risk Prediction for Heart Disease
+
+- Developed machine learning models for heart disease prediction
+- Applied SHAP explainability techniques to interpret predictions
+- Compared model performance and analyzed feature importance
+- Focused on transparency and trustworthiness in healthcare AI
+
+🔗 Repository: https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 ---
 
 ### 🚗 NYC Collision Risk Intelligence
-- Analyzed real-world traffic collision datasets from New York City  
-- Identified high-risk locations, temporal trends, and severity patterns  
-- Built data analysis pipelines using Python and visualization tools  
-- Demonstrated the ability to convert raw datasets into actionable insights  
 
-🔗 https://github.com/MeghaKA/NYC_Collision_Risk_Intelligence
+- Analyzed real-world traffic collision datasets from New York City
+- Identified high-risk locations and accident patterns
+- Performed data visualization and exploratory analysis
+- Generated actionable insights from large-scale public datasets
+
+🔗 Repository: https://github.com/MeghaKA/NYC_Collision_Risk_Intelligence
+
+---
+
+## 📄 Research Work
+
+### Explainable Machine Learning Framework for Chronic Kidney Disease Prediction using SHAP-Based Interpretability
+
+- Developed an interpretable CKD prediction framework integrating Decision Trees and SHAP explainability
+- Investigated feature-level contributions influencing healthcare predictions
+- Focused on improving transparency, trust, and interpretability in healthcare AI systems
+- Currently preparing the manuscript for arXiv submission
 
 ---
 
 ## 🔬 Research Interests
 
-- 🧠 Explainable AI (XAI)  
-- ⚕️ Healthcare Machine Learning  
-- 📊 Predictive Modeling for Clinical Data  
-- 🔍 Trustworthy & Interpretable AI  
-- 🏥 Clinical Decision-Support Systems  
+- 🧠 Explainable Artificial Intelligence (XAI)
+- ⚕️ Healthcare Machine Learning
+- 🏥 Healthcare Analytics
+- 📊 Predictive Healthcare Modelling
+- 🔍 Interpretable Machine Learning
+- 🛡️ Trustworthy & Responsible AI
+- 🏥 Clinical Decision-Support Systems
 
 ---
 
 ## 📈 Currently Learning
 
-- Advanced Machine Learning  
-- Statistical Learning Methods  
-- SQL for Data Analytics  
-- Responsible AI & XAI Evaluation Methods  
-- Clinical Data Modelling  
+- Advanced Machine Learning
+- Explainable AI Evaluation Methods
+- Statistical Learning Techniques
+- Healthcare Data Analytics
+- Responsible & Trustworthy AI
+- Research Methodology
 
 ---
 
 ## 🎯 Career Goal
 
-To build a career in Data Analytics, Data Science, and Healthcare AI by developing interpretable and trustworthy machine learning systems for real-world clinical and decision-support applications.
+To build a career in Data Analytics, Machine Learning, and Healthcare AI by developing interpretable and trustworthy AI systems that support real-world healthcare decision-making and clinical analytics.
 
 ---
 
@@ -121,4 +158,4 @@ To build a career in Data Analytics, Data Science, and Healthcare AI by developi
 
 ## ⚡ Fun Fact
 
-I enjoy transforming complex datasets into interpretable insights and transparent machine learning solutions 📊
+I enjoy transforming complex healthcare datasets into meaningful insights and interpretable machine learning solutions that people can actually trust. 📊🧠
