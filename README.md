@@ -133,7 +133,7 @@ Python | Pandas | Scikit-learn | Random Forest
 
 Repository:
 
-Decode Labs Data Science Internship Project
+[Decode Labs Data Science Internship Project](https://github.com/MeghaKA/DecodeLabs-Data-Science-Internship/tree/main/Project-01-Advanced-EDA-Feature-Engineering)
 
 
 ---
