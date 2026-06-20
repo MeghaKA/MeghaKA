@@ -86,7 +86,7 @@ Python | Machine Learning | Predictive Maintenance | Explainable AI
 - Exploring explainable approaches to understand failure patterns and improve model transparency.
 
 Repository:
-Coming soon
+https://github.com/MeghaKA/Industrial-Predictive-Maintenance-ML
 
 
 ---
