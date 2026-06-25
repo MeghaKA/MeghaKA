@@ -81,10 +81,10 @@ I enjoy transforming complex datasets into meaningful insights and building mach
 
 Python | Machine Learning | SHAP | Predictive Maintenance
 
-- Developed ML pipeline for machine failure prediction using industrial telemetry data.
-- Engineered features for predictive maintenance and reliability analysis.
-- Investigating causal relationships in machine failure behaviour.
-- Applying explainable AI techniques to improve model interpretability.
+- Developed a machine learning pipeline for predicting industrial machine failure using sensor and operational data.
+- ⁠Applied data preprocessing, feature engineering, and exploratory data analysis for telemetry-based datasets.
+- ⁠Built classification models (Logistic Regression, Random Forest) for failure prediction and risk analysis.
+- Integrated Explainable AI techniques (SHAP) to interpret model decisions and identify key failure-driving factors.
 
 Repository:
 https://github.com/MeghaKA/Industrial-Predictive-Maintenance-ML
