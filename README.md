@@ -77,13 +77,14 @@ I enjoy transforming complex datasets into meaningful insights and building mach
 # 📌 Featured Projects
 
 
-## 🏭 Industrial Failure Analysis using Explainable & Causal AI (Ongoing)
+## 🏭 Industrial Predictive Maintenance using Explainable AI (XAI) (Ongoing)
 
-Python | Machine Learning | Predictive Maintenance | Explainable AI
+Python | Machine Learning | SHAP | Predictive Maintenance
 
-- Developing an AI framework for industrial failure analysis using machine learning approaches.
-- Working on predictive maintenance concepts using machine telemetry data.
-- Exploring explainable approaches to understand failure patterns and improve model transparency.
+- Developed ML pipeline for machine failure prediction using industrial telemetry data.
+- Engineered features for predictive maintenance and reliability analysis.
+- Investigating causal relationships in machine failure behaviour.
+- Applying explainable AI techniques to improve model interpretability.
 
 Repository:
 https://github.com/MeghaKA/Industrial-Predictive-Maintenance-ML
@@ -153,16 +154,6 @@ https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 ---
 
-# 📊 Additional Analytics Projects
-
-- Amazon Cloud Sales Analytics
-- Global Startup Funding Analysis
-- NYC Collision Risk Intelligence
-- Diabetes Patient Analysis
-
-
----
-
 # 🔬 Research Interests
 
 - Explainable Artificial Intelligence
@@ -224,4 +215,4 @@ meghaka1998@gmail.com
 
 ---
 
-⭐ Always learning, building, and exploring how AI can become more transparent and trustworthy.
+⭐ ⭐ Interested in learning and improving in Explainable AI and Trustworthy Machine Learning for real-world applications.
