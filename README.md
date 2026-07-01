@@ -1,26 +1,29 @@
 # 👋 Hi, I'm Megha Kalachira Ankush
 
-🎯 Data Science Graduate | Machine Learning | Explainable AI | Trustworthy AI
+🎯 Data Sxience Graduate | Machine Learning | Explainable AI | Trustworthy AI | Causal Machine Learning
 
-🧠 Building interpretable machine learning solutions for real-world healthcare and industrial applications.
+🧠 Building reliable and interpretable AI systems for real-world healthcare, industrial, and decision-support applications.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 MSc Data Analytics Graduate (De Montfort University, UK)
 
-I am a Data Science and Machine Learning enthusiast interested in developing reliable and interpretable AI systems.
+I am a Data Science and Machine Learning enthusiast interested in developing AI systems that are not only accurate, but also explainable, trustworthy, and practical for real-world deployment.
 
-My work focuses on:
+My work combines machine learning, explainable AI, and domain knowledge to solve problems in high-impact areas.
+
+My interests include:
 
 - 🤖 Machine Learning and Predictive Modelling
-- 🔍 Explainable AI (XAI) and Model Interpretability
-- 📊 Data Analytics and Feature Engineering
-- 🏥 Healthcare AI and Clinical Prediction Systems
+- 🔍 Explainable Artificial Intelligence (XAI)
+- 🧠 Trustworthy and Responsible AI
+- 🔗 Causal Machine Learning
+- 🏥 Healthcare AI and Clinical Decision Support
 - 🏭 Industrial AI and Predictive Maintenance
 
-I enjoy transforming complex datasets into meaningful insights and building machine learning solutions that are not only accurate but also understandable and trustworthy.
+I enjoy transforming complex datasets into meaningful insights and developing machine learning solutions that support transparent and reliable decision-making.
 
 ---
 
@@ -46,8 +49,8 @@ I enjoy transforming complex datasets into meaningful insights and building mach
 ## Machine Learning
 
 - Scikit-learn
-- Classification Models
 - Regression Models
+- Classification Models
 - Decision Trees
 - Random Forest
 - XGBoost
@@ -56,13 +59,14 @@ I enjoy transforming complex datasets into meaningful insights and building mach
 - Cross Validation
 
 
-## Explainable AI (XAI)
+## Explainable & Trustworthy AI
 
 - SHAP
 - LIME
 - Feature Importance Analysis
-- Model Transparency
-- Interpretable Machine Learning
+- Model Interpretability
+- Explainable Machine Learning
+- Trustworthy AI Concepts
 
 
 ## Tools
@@ -74,32 +78,52 @@ I enjoy transforming complex datasets into meaningful insights and building mach
 
 ---
 
-# 📌 Featured Projects
+# 📌 Featured Research & AI Projects
 
 
-## 🏭 Industrial Predictive Maintenance using Explainable AI (XAI) (Ongoing)
+# 🏭 Trustworthy Causal AI System for Predictive Maintenance using NASA C-MAPSS
 
-Python | Machine Learning | SHAP | Predictive Maintenance
+Python | Machine Learning | Explainable AI | Trustworthy AI | Industrial AI
 
-- Developed a machine learning pipeline for predicting industrial machine failure using sensor and operational data.
-- ⁠Applied data preprocessing, feature engineering, and exploratory data analysis for telemetry-based datasets.
-- ⁠Built classification models (Logistic Regression, Random Forest) for failure prediction and risk analysis.
-- Integrated Explainable AI techniques (SHAP) to interpret model decisions and identify key failure-driving factors.
+A research-oriented implementation exploring trustworthy AI methods for turbofan engine predictive maintenance.
+
+Developed:
+
+- End-to-end Remaining Useful Life (RUL) prediction pipeline
+- Sensor-based degradation modelling
+- Evaluation on unseen engine units
+- Explainability through sensor importance analysis
+- Prediction uncertainty estimation
+- Causal AI research framework for future intervention modelling
+
+Key focus:
+
+Prediction → Explanation → Causal AI Reasoning
 
 Repository:
-https://github.com/MeghaKA/Industrial-Predictive-Maintenance-ML
+
+[GitHub Repository Link]
 
 
 ---
 
-## 🏥 Explainable Multi-Disease Prediction using SHAP & LIME
+# 🏥 Explainable Multi-Disease Prediction using SHAP & LIME
 
 Python | Scikit-learn | XGBoost | SHAP | LIME
 
-- Developed a machine learning framework for Diabetes and Chronic Kidney Disease prediction.
-- Compared multiple ML models including Logistic Regression, Decision Tree, Random Forest, and XGBoost.
-- Applied SHAP and LIME techniques for global and patient-level explanations.
-- Focused on improving transparency in healthcare AI systems.
+Developed an explainable healthcare machine learning framework for disease prediction.
+
+Implemented:
+
+- Diabetes prediction
+- Chronic Kidney Disease prediction
+- Model comparison
+- SHAP global explanations
+- LIME patient-level explanations
+
+Focus:
+
+Improving transparency and trust in healthcare AI systems.
 
 Repository:
 
@@ -108,13 +132,17 @@ https://github.com/MeghaKA/Explainable-MultiDisease-Prediction-using-SHAP-and-LI
 
 ---
 
-## 🧠 Explainable Machine Learning Framework for CKD Prediction using SHAP
+# 🧠 Explainable Machine Learning Framework for CKD Prediction using SHAP
 
 Python | Decision Tree | SHAP
 
-- Developed an interpretable CKD prediction framework.
-- Applied SHAP-based explainability to identify important clinical predictors.
-- Studied feature contribution and model decision behaviour.
+Developed an interpretable CKD prediction framework.
+
+Focus areas:
+
+- Clinical prediction modelling
+- Feature contribution analysis
+- Explainable AI for healthcare decision support
 
 Repository:
 
@@ -123,29 +151,17 @@ https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
 
 ---
 
-## 🛒 E-Commerce Customer Value Prediction using Machine Learning
-
-Python | Pandas | Scikit-learn | Random Forest
-
-- Built an end-to-end machine learning pipeline using transaction data.
-- Performed EDA, data cleaning, feature engineering, and classification modelling.
-- Compared Logistic Regression, Decision Tree, and Random Forest models.
-- Applied feature importance analysis to understand customer behaviour patterns.
-
-Repository:
-
-https://github.com/MeghaKA/DecodeLabs-Data-Science-Internship/tree/main/Project-01-Advanced-EDA-Feature-Engineering
-
-
----
-
-## 🫀 Explainable Clinical Risk Prediction for Heart Disease
+# 🫀 Explainable Clinical Risk Prediction for Heart Disease
 
 Python | Machine Learning | SHAP
 
-- Developed predictive models for cardiovascular risk prediction.
-- Applied explainable AI techniques to improve model interpretation.
-- Analysed feature importance and model behaviour.
+Developed machine learning models for cardiovascular risk prediction with explainability analysis.
+
+Focus:
+
+- Predictive modelling
+- Model interpretation
+- Healthcare AI transparency
 
 Repository:
 
@@ -154,30 +170,50 @@ https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 ---
 
-# 🔬 Research Interests
+# 🛒 E-Commerce Customer Value Prediction using Machine Learning
 
-- Explainable Artificial Intelligence
-- Trustworthy and Responsible AI
-- Human-Centred AI Systems
-- Healthcare Machine Learning
-- Industrial Artificial Intelligence
-- Causal Machine Learning
-- Predictive Modelling
+Python | Pandas | Scikit-learn | Random Forest
+
+Built an end-to-end machine learning pipeline involving:
+
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Predictive modelling
+- Feature importance analysis
+
+Repository:
+
+https://github.com/MeghaKA/DecodeLabs-Data-Science-Internship/tree/main/Project-01-Advanced-EDA-Feature-Engineering
 
 
 ---
 
-# 📚 Research Work
+# 🔬 Research Interests
 
-## Explainable Machine Learning Framework for Chronic Kidney Disease Prediction using SHAP-Based Interpretability
+- Explainable Artificial Intelligence
+- Trustworthy AI
+- Responsible AI
+- Causal Machine Learning
+- Human-Centred AI Systems
+- Healthcare AI
+- Industrial AI
+- Predictive Maintenance
+- Decision Support Systems
 
-Research work exploring interpretable machine learning approaches for healthcare prediction and model transparency.
 
-Focus areas:
+---
 
-- Explainable AI
-- Feature contribution analysis
-- Trustworthy AI systems
+# 📚 Research Direction
+
+My long-term goal is to develop AI systems that combine:
+
+- Predictive performance
+- Explainability
+- Causal understanding
+- Human trust
+
+with applications in healthcare, industrial systems, and real-world decision-making environments.
 
 
 ---
@@ -185,17 +221,28 @@ Focus areas:
 # 🌱 Currently Learning
 
 - Causal Machine Learning
-- Advanced Machine Learning Techniques
-- Explainable AI Evaluation Methods
+- Advanced Machine Learning Methods
+- Explainable AI Evaluation
 - Statistical Learning
 - Research Methodology
+- AI for Decision Support
 
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Goals
 
-To contribute to the development of reliable and interpretable AI systems by combining machine learning, explainability, and domain knowledge for real-world applications.
+Seeking opportunities in:
+
+- Data Science
+- Machine Learning Engineering
+- AI Research
+- Explainable AI
+- Trustworthy AI
+- Healthcare AI
+- Industrial AI
+
+I aim to contribute to the development of reliable and interpretable AI solutions with real-world impact.
 
 
 ---
@@ -213,6 +260,7 @@ https://medium.com/@meghaka1998
 Email:
 meghaka1998@gmail.com
 
+
 ---
 
-⭐ ⭐ Interested in learning and improving in Explainable AI and Trustworthy Machine Learning for real-world applications.
+⭐ Open to opportunities, collaborations, and research discussions in Machine Learning, Explainable AI, Trustworthy AI, and Causal AI.
