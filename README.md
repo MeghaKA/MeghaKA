@@ -168,24 +168,6 @@ Repository:
 https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 
----
-
-# 🛒 E-Commerce Customer Value Prediction using Machine Learning
-
-Python | Pandas | Scikit-learn | Random Forest
-
-Built an end-to-end machine learning pipeline involving:
-
-- Data preprocessing
-- Exploratory data analysis
-- Feature engineering
-- Predictive modelling
-- Feature importance analysis
-
-Repository:
-
-https://github.com/MeghaKA/DecodeLabs-Data-Science-Internship/tree/main/Project-01-Advanced-EDA-Feature-Engineering
-
 
 ---
 
