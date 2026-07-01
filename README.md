@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Megha Kalachira Ankush
 
-🎯 Data Sxience Graduate | Machine Learning | Explainable AI | Trustworthy AI | Causal Machine Learning
+🎯 Data Science Graduate | Machine Learning | Explainable AI | Trustworthy AI | Causal Machine Learning
 
 🧠 Building reliable and interpretable AI systems for real-world healthcare, industrial, and decision-support applications.
 
@@ -101,8 +101,7 @@ Key focus:
 Prediction → Explanation → Causal AI Reasoning
 
 Repository:
-
-[GitHub Repository Link]
+https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
 
 
 ---
