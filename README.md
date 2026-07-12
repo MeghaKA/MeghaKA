@@ -201,7 +201,7 @@ Repository:
 https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
 
 DOI:
-https://zenodo.org/records/21325769
+https://doi.org/10.5281/zenodo.21325769
 
 ---
 
