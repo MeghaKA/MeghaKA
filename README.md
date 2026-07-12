@@ -186,6 +186,25 @@ https://github.com/MeghaKA/explainable_clinical_risk_prediction
 
 ---
 
+## Featured Research
+
+Trustworthy Causal Artificial Intelligence for Predictive Maintenance
+
+• End-to-end research project
+• NASA C-MAPSS
+• Explainable AI
+• Structural Causal Models
+• Counterfactual Reasoning
+• Zenodo DOI
+
+Repository:
+https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
+
+DOI:
+https://zenodo.org/records/21325769
+
+---
+
 # 📚 Research Direction
 
 My long-term goal is to develop AI systems that combine:
