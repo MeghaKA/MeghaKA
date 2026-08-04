@@ -1,267 +1,253 @@
 # 👋 Hi, I'm Megha Kalachira Ankush
 
-🎯 Data Science Graduate | Machine Learning | Explainable AI | Trustworthy AI | Causal Machine Learning
+🎓 MSc Data Analytics Graduate (De Montfort University, UK)
 
-🧠 Building reliable and interpretable AI systems for real-world healthcare, industrial, and decision-support applications.
+🔬 AI Research Enthusiast | Trustworthy AI | Explainable AI | Causal Machine Learning | Clinical Decision Support | Industrial AI
 
 ---
 
 # 🚀 About Me
 
-🎓 MSc Data Analytics Graduate (De Montfort University, UK)
+I'm passionate about building Artificial Intelligence systems that people can **understand, trust, and use confidently in real-world decision-making**.
 
-I am a Data Science and Machine Learning enthusiast interested in developing AI systems that are not only accurate, but also explainable, trustworthy, and practical for real-world deployment.
+My research focuses on developing AI models that go beyond prediction by integrating:
 
-My work combines machine learning, explainable AI, and domain knowledge to solve problems in high-impact areas.
+- Explainability
+- Causal reasoning
+- Trust verification
+- Human-centered decision support
 
-My interests include:
-
-- 🤖 Machine Learning and Predictive Modelling
-- 🔍 Explainable Artificial Intelligence (XAI)
-- 🧠 Trustworthy and Responsible AI
-- 🔗 Causal Machine Learning
-- 🏥 Healthcare AI and Clinical Decision Support
-- 🏭 Industrial AI and Predictive Maintenance
-
-I enjoy transforming complex datasets into meaningful insights and developing machine learning solutions that support transparent and reliable decision-making.
+My long-term goal is to contribute to the next generation of **Trustworthy Artificial Intelligence** for healthcare, industrial systems, and intelligent decision support.
 
 ---
 
-# 🛠️ Technical Skills
+# 🔬 Research Interests
 
-## Programming & Data Analysis
+- 🧠 Trustworthy Artificial Intelligence
+- 🔍 Explainable Artificial Intelligence (XAI)
+- 🔗 Causal Machine Learning
+- 🤖 Agentic AI Systems
+- 🏥 Clinical Decision Support Systems
+- 📈 Predictive Analytics
+- 🏭 Industrial AI
+- ⚙️ Predictive Maintenance
+- 📊 Time-Series Analytics
+- 📚 Responsible AI
+
+---
+
+# 🛠 Technical Skills
+
+## Programming
 
 - Python
 - SQL
 - Pandas
 - NumPy
 
-
-## Data Visualization
-
-- Matplotlib
-- Seaborn
-- Tableau
-- Power BI
-- Looker Studio
-
+---
 
 ## Machine Learning
 
 - Scikit-learn
-- Regression Models
-- Classification Models
-- Decision Trees
-- Random Forest
 - XGBoost
+- LightGBM
+- Random Forest
+- Decision Trees
+- Logistic Regression
 - Model Evaluation
 - Feature Engineering
 - Cross Validation
 
+---
 
-## Explainable & Trustworthy AI
+## Explainable AI
 
 - SHAP
 - LIME
-- Feature Importance Analysis
+- Feature Importance
 - Model Interpretability
-- Explainable Machine Learning
-- Trustworthy AI Concepts
 
+---
+
+## Data Visualization
+
+- Tableau
+- Power BI
+- Looker Studio
+- Matplotlib
+- Seaborn
+
+---
 
 ## Tools
 
-- Jupyter Notebook
-- Google Colab
 - Git
 - GitHub
+- Jupyter Notebook
+- Google Colab
 
 ---
 
-# 📌 Featured Research & AI Projects
+# 🌟 Flagship Research Project
 
+## 🏥 Trustworthy Multi-Agent Clinical Decision Support System
 
-# 🏭 Trustworthy Causal AI System for Predictive Maintenance using NASA C-MAPSS
+🚧 Research Project (Under Development)
 
-Python | Machine Learning | Explainable AI | Trustworthy AI | Industrial AI
+A next-generation AI system for personalized clinical decision support using **NHANES** data.
 
-A research-oriented implementation exploring trustworthy AI methods for turbofan engine predictive maintenance.
+Unlike traditional disease prediction models, this system combines:
 
-Developed:
+- Multi-Agent AI
+- Explainable AI
+- Trust Verification
+- Clinical Reasoning
+- Personalized Recommendations
+- Conversational Healthcare Assistant
 
-- End-to-end Remaining Useful Life (RUL) prediction pipeline
-- Sensor-based degradation modelling
-- Evaluation on unseen engine units
-- Explainability through sensor importance analysis
-- Prediction uncertainty estimation
-- Causal AI research framework for future intervention modelling
+### Current Focus
 
-Key focus:
+- Diabetes Risk Prediction
+- Prediabetes Detection
 
-Prediction → Explanation → Causal AI Reasoning
+### Planned Expansion
 
-Repository:
+- Chronic Kidney Disease
+- Cardiovascular Disease
+- Hypertension
+- Metabolic Syndrome
 
-https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
+### Technology
 
+- XGBoost
+- LightGBM
+- SHAP
+- LIME
+- LangGraph
+- LangChain
+- Large Language Models
+- Streamlit
 
----
-
-# 🏥 Explainable Multi-Disease Prediction using SHAP & LIME
-
-Python | Scikit-learn | XGBoost | SHAP | LIME
-
-Developed an explainable healthcare machine learning framework for disease prediction.
-
-Implemented:
-
-- Diabetes prediction
-- Chronic Kidney Disease prediction
-- Model comparison
-- SHAP global explanations
-- LIME patient-level explanations
-
-Focus:
-
-Improving transparency and trust in healthcare AI systems.
-
-Repository:
-
-https://github.com/MeghaKA/Explainable-MultiDisease-Prediction-using-SHAP-and-LIME
-
+📌 Repository (Coming Soon)
 
 ---
 
-# 🧠 Explainable Machine Learning Framework for CKD Prediction using SHAP
+# 🏭 Trustworthy Causal AI for Predictive Maintenance
 
-Python | Decision Tree | SHAP
+Python • Machine Learning • Explainable AI • Causal AI • NASA C-MAPSS
 
-Developed an interpretable CKD prediction framework.
+Research-oriented predictive maintenance framework integrating:
 
-Focus areas:
-
-- Clinical prediction modelling
-- Feature contribution analysis
-- Explainable AI for healthcare decision support
-
-Repository:
-
-https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
-
-
----
-
-# 🫀 Explainable Clinical Risk Prediction for Heart Disease
-
-Python | Machine Learning | SHAP
-
-Developed machine learning models for cardiovascular risk prediction with explainability analysis.
-
-Focus:
-
-- Predictive modelling
-- Model interpretation
-- Healthcare AI transparency
-
-Repository:
-
-https://github.com/MeghaKA/explainable_clinical_risk_prediction
-
-
-
----
-
-# 🔬 Research Interests
-
-- Explainable Artificial Intelligence
-- Trustworthy AI
-- Responsible AI
-- Causal Machine Learning
-- Human-Centred AI Systems
-- Healthcare AI
-- Industrial AI
-- Predictive Maintenance
-- Decision Support Systems
-
-
----
-
-## Featured Research
-
-Trustworthy Causal Artificial Intelligence for Predictive Maintenance
-
-- End-to-end research project
-- NASA C-MAPSS
+- Remaining Useful Life Prediction
 - Explainable AI
 - Structural Causal Models
 - Counterfactual Reasoning
-- Zenodo DOI
+- Industrial Decision Support
 
-Repository:
-https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
+Repository
 
-DOI:
-https://doi.org/10.5281/zenodo.21325769
+👉 https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
+
+DOI
+
+👉 https://doi.org/10.5281/zenodo.21325769
 
 ---
 
-# 📚 Research Direction
+# 🩺 Explainable AI for Chronic Kidney Disease Prediction
 
-My long-term goal is to develop AI systems that combine:
+Python • Decision Tree • SHAP
 
-- Predictive performance
-- Explainability
-- Causal understanding
-- Human trust
+Developed an interpretable clinical prediction framework for Chronic Kidney Disease using Explainable AI.
 
-with applications in healthcare, industrial systems, and real-world decision-making environments.
+Repository
 
+👉 https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
+
+DOI
+
+👉 https://doi.org/10.5281/zenodo.20616571
+
+---
+
+# 💼 Resume Screening Agent
+
+Python • NLP • TF-IDF • Llama 3.3 • Groq
+
+AI-powered resume screening system built for a recruitment AI challenge.
+
+Features:
+
+- Resume Ranking
+- Candidate Scoring
+- Explainable Recommendations
+- LLM-powered Reasoning
+
+Repository
+
+👉 https://github.com/MeghaKA/resume-screening-agent
+
+---
+
+# 📚 Current Research Direction
+
+My current research explores how Explainable AI, Causal AI, and Multi-Agent Systems can be integrated to build intelligent systems that are:
+
+- Transparent
+- Reliable
+- Human-Centered
+- Trustworthy
+
+for applications in healthcare and industrial environments.
 
 ---
 
 # 🌱 Currently Learning
 
+- Agentic AI
+- LangGraph
+- LangChain
 - Causal Machine Learning
-- Advanced Machine Learning Methods
-- Explainable AI Evaluation
-- Statistical Learning
-- Research Methodology
-- AI for Decision Support
-
+- Probabilistic AI
+- Clinical AI
+- AI Safety
+- Trustworthy AI
 
 ---
 
-# 🎯 Career Goals
+# 🎯 Career Goal
 
-Seeking opportunities in:
+I aspire to pursue a PhD focused on:
 
-- Data Science
-- Machine Learning Engineering
-- AI Research
-- Explainable AI
 - Trustworthy AI
-- Healthcare AI
-- Industrial AI
+- Explainable AI
+- Causal AI
+- Clinical Decision Support
+- Intelligent Healthcare Systems
 
-I aim to contribute to the development of reliable and interpretable AI solutions with real-world impact.
-
+and contribute to research that bridges Machine Learning with real-world impact.
 
 ---
 
 # 🌐 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/meghaka1998
+📧 Email
 
-
-Medium:
-https://medium.com/@meghaka1998
-
-
-Email:
 meghaka1998@gmail.com
 
+🔗 LinkedIn
+
+https://linkedin.com/in/meghaka1998
+
+📝 Medium
+
+https://medium.com/@meghaka1998
+
+💻 GitHub
+
+https://github.com/MeghaKA
 
 ---
 
-⭐ Open to opportunities, collaborations, and research discussions in Machine Learning, Explainable AI, Trustworthy AI, and Causal AI.
+⭐ Always open to collaborations in AI Research, Trustworthy AI, Explainable AI, Causal Machine Learning, and Healthcare AI.
