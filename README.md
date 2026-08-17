@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Megha Kalachira Ankush
 
-🎓 MSc Data Analytics Graduate (De Montfort University, UK)
+🎓 MSc Data Analytics Graduate — De Montfort University, UK
 
-🔬 AI Research Enthusiast | Trustworthy AI | Explainable AI | Causal Machine Learning | Clinical Decision Support | Industrial AI
+🔬 AI Research Enthusiast | Trustworthy AI | Explainable AI | Causal Machine Learning | Clinical AI | Industrial AI
 
 ---
 
@@ -10,14 +10,15 @@
 
 I'm passionate about building Artificial Intelligence systems that people can **understand, trust, and use confidently in real-world decision-making**.
 
-My research focuses on developing AI models that go beyond prediction by integrating:
+My work combines Machine Learning with:
 
 - Explainability
 - Causal reasoning
 - Trust verification
 - Human-centered decision support
+- Data-driven predictive modelling
 
-My long-term goal is to contribute to the next generation of **Trustworthy Artificial Intelligence** for healthcare, industrial systems, and intelligent decision support.
+My long-term goal is to contribute to the development of **Trustworthy AI for healthcare, industrial systems, and intelligent decision support**.
 
 ---
 
@@ -38,14 +39,12 @@ My long-term goal is to contribute to the next generation of **Trustworthy Artif
 
 # 🛠 Technical Skills
 
-## Programming
+## Programming & Data
 
 - Python
 - SQL
 - Pandas
 - NumPy
-
----
 
 ## Machine Learning
 
@@ -54,12 +53,10 @@ My long-term goal is to contribute to the next generation of **Trustworthy Artif
 - LightGBM
 - Random Forest
 - Decision Trees
-- Logistic Regression
-- Model Evaluation
+- Regression & Classification
 - Feature Engineering
+- Model Evaluation
 - Cross Validation
-
----
 
 ## Explainable AI
 
@@ -68,9 +65,7 @@ My long-term goal is to contribute to the next generation of **Trustworthy Artif
 - Feature Importance
 - Model Interpretability
 
----
-
-## Data Visualization
+## Visualization & BI
 
 - Tableau
 - Power BI
@@ -78,33 +73,32 @@ My long-term goal is to contribute to the next generation of **Trustworthy Artif
 - Matplotlib
 - Seaborn
 
----
-
-## Tools
+## Tools & Frameworks
 
 - Git
 - GitHub
 - Jupyter Notebook
 - Google Colab
+- Streamlit
 
 ---
 
-# 🌟 Flagship Research Project
+# 🌟 Selected Projects
 
 ## 🏥 Trustworthy Multi-Agent Clinical Decision Support System
 
-🚧 Research Project (Under Development)
+🚧 Research Project — Under Development
 
-A next-generation AI system for personalized clinical decision support using **NHANES** data.
+A research-oriented AI system for personalized clinical decision support using **NHANES** data.
 
-Unlike traditional disease prediction models, this system combines:
+The planned framework integrates:
 
 - Multi-Agent AI
 - Explainable AI
 - Trust Verification
 - Clinical Reasoning
 - Personalized Recommendations
-- Conversational Healthcare Assistant
+- Conversational Healthcare Assistance
 
 ### Current Focus
 
@@ -118,24 +112,15 @@ Unlike traditional disease prediction models, this system combines:
 - Hypertension
 - Metabolic Syndrome
 
-### Technology
+**Technology:** XGBoost · LightGBM · SHAP · LIME · LangGraph · LangChain · LLMs · Streamlit
 
-- XGBoost
-- LightGBM
-- SHAP
-- LIME
-- LangGraph
-- LangChain
-- Large Language Models
-- Streamlit
-
-📌 Repository (Coming Soon)
+📌 Repository — Coming Soon
 
 ---
 
-# 🏭 Trustworthy Causal AI for Predictive Maintenance
+## 🏭 Trustworthy Causal AI for Predictive Maintenance
 
-Python • Machine Learning • Explainable AI • Causal AI • NASA C-MAPSS
+**Python · Machine Learning · Explainable AI · Causal AI · NASA C-MAPSS**
 
 Research-oriented predictive maintenance framework integrating:
 
@@ -145,37 +130,69 @@ Research-oriented predictive maintenance framework integrating:
 - Counterfactual Reasoning
 - Industrial Decision Support
 
-Repository
+🔗 Repository  
+https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
 
-👉 https://github.com/MeghaKA/Trustworthy-AI-for-Predictive-Maintenance-NASA-CMAPSS
-
-DOI
-
-👉 https://doi.org/10.5281/zenodo.21325769
+📄 DOI  
+https://doi.org/10.5281/zenodo.21325769
 
 ---
 
-# 🩺 Explainable AI for Chronic Kidney Disease Prediction
+## 🏠 Smart Housing Price Analytics
 
-Python • Decision Tree • SHAP
+**Python · XGBoost · PyTorch · Spatial ML · Streamlit**
+
+End-to-end residential property valuation system using the **King County Housing Dataset**.
+
+The project combines conventional machine learning with spatial neighbourhood modelling:
+
+- Exploratory Data Analysis
+- Feature Engineering
+- XGBoost Regression
+- Spatial KNN Graph Construction
+- Attention-Based Neighbour Aggregation
+- Geographic Error Analysis
+- Interactive Property Valuation
+
+### Test Performance
+
+| Model | MAPE | R² |
+|---|---:|---:|
+| Linear Regression | 25.67% | 0.723 |
+| **XGBoost** | **12.14%** | **0.907** |
+| Spatial Attention | 13.69% | 0.877 |
+
+**Best model:** XGBoost
+
+The spatial attention model did not outperform XGBoost, but demonstrated an extensible approach for incorporating **neighbourhood relationships into automated property valuation**.
+
+🔗 Repository  
+https://github.com/MeghaKA/Smart-Housing-Price-Analytics
+
+🚀 Live Demo  
+https://megha-housing-valuation.streamlit.app
+
+---
+
+## 🩺 Explainable AI for Chronic Kidney Disease Prediction
+
+**Python · Decision Tree · SHAP**
 
 Developed an interpretable clinical prediction framework for Chronic Kidney Disease using Explainable AI.
 
-Repository
+🔗 Repository  
+https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
 
-👉 https://github.com/MeghaKA/Explainable-AI-CKD-Prediction-SHAP
-
-DOI
-
-👉 https://doi.org/10.5281/zenodo.20616571
+📄 DOI  
+https://doi.org/10.5281/zenodo.20616571
 
 ---
 
-# 💼 Resume Screening Agent
+## 💼 Resume Screening Agent
 
-Python • NLP • TF-IDF • Llama 3.3 • Groq
+**Python · NLP · TF-IDF · Llama 3.3 · Groq**
 
-AI-powered resume screening system built for a recruitment AI challenge.
+AI-powered resume screening system developed for a recruitment AI challenge.
 
 Features:
 
@@ -184,22 +201,21 @@ Features:
 - Explainable Recommendations
 - LLM-powered Reasoning
 
-Repository
-
-👉 https://github.com/MeghaKA/resume-screening-agent
+🔗 Repository  
+https://github.com/MeghaKA/resume-screening-agent
 
 ---
 
 # 📚 Current Research Direction
 
-My current research explores how Explainable AI, Causal AI, and Multi-Agent Systems can be integrated to build intelligent systems that are:
+My current research explores how **Explainable AI, Causal AI, and Multi-Agent Systems** can be integrated to build intelligent systems that are:
 
 - Transparent
 - Reliable
 - Human-Centered
 - Trustworthy
 
-for applications in healthcare and industrial environments.
+with a particular interest in **healthcare and industrial applications**.
 
 ---
 
@@ -226,28 +242,24 @@ I aspire to pursue a PhD focused on:
 - Clinical Decision Support
 - Intelligent Healthcare Systems
 
-and contribute to research that bridges Machine Learning with real-world impact.
+and contribute to research that bridges **Machine Learning with real-world impact**.
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email
-
+📧 Email  
 meghaka1998@gmail.com
 
-🔗 LinkedIn
-
+🔗 LinkedIn  
 https://linkedin.com/in/meghaka1998
 
-📝 Medium
-
+📝 Medium  
 https://medium.com/@meghaka1998
 
-💻 GitHub
-
+💻 GitHub  
 https://github.com/MeghaKA
 
 ---
 
-⭐ Always open to collaborations in AI Research, Trustworthy AI, Explainable AI, Causal Machine Learning, and Healthcare AI.
+⭐ Open to collaborations in AI Research, Trustworthy AI, Explainable AI, Causal Machine Learning, and Healthcare AI.
